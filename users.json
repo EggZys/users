@@ -8,10 +8,5 @@
         "password": "e5539c866e5a161af8485c9311ad5c32c085148626b86960e50bbee8a07b9c52af48f1120ec75a00b3d9ec5fe47a4378",
         "added_on": "2024-10-31T10:42:12.665738",
         "expires_on": null
-    },
-    "test": {
-        "password": "d9a0a1cfafa8897a44ffdad6227ca31c25cca0be1b63dc9e87ad55be30531c0cdcbef9cf567d7e33b7207063272cc582",
-        "added_on": "2024-10-31T11:12:18.457368",
-        "expires_on": "2024-11-02T11:12:18.371623"
     }
 }
