@@ -8,5 +8,10 @@
         "password": "Moypassword123",
         "added_on": "2024-10-31T10:42:12.665738",
         "expires_on": null
+    },
+    "TestUser": {
+        "password": "36cbdd59dd0f7248dba4984a135bed9759aa102e788dff348fe8b3dbb7e80ed8604635277889ceae246efbee7e4d085a",
+        "added_on": "2024-11-04T09:05:54.517555",
+        "expires_on": "2024-12-04T09:05:54.323331"
     }
 }
